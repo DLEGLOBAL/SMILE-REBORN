@@ -1,0 +1,8 @@
+{
+  "name": "Smile Reborn",
+  "description": "An AI-powered app to visualize your perfect smile. Upload a photo of your teeth, see an AI-generated transformation, and get a clear plan to achieve it by connecting with dentists or exploring financing options.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
